@@ -239,9 +239,9 @@ nav .hamburger div {
   -webkit-transform: skewY(-25deg);
           transform: skewY(-25deg);
   z-index: -5;
-  background: #c99af8;
-  -webkit-box-shadow: 10px 20px 50px #c99af8, 20px 30px 40px #c99af8;
-          box-shadow: 10px 20px 50px #c99af8, 20px 30px 40px #c99af8;
+  background: #CCA8A8;
+  -webkit-box-shadow: 10px 20px 50px #CCA8A8, 20px 30px 40px #CCA8A8;
+          box-shadow: 10px 20px 50px #CCA8A8, 20px 30px 40px #CCA8A8;
 }
 
 @media screen and (max-width: 768px) {
